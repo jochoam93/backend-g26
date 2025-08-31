@@ -14,8 +14,6 @@ stock = {
     'femenino':['l','m']
 }
 
-
-
 genero = input('ingresa tu genero:').casefold()
 talla = input('ingresa tu talla:').casefold()
 

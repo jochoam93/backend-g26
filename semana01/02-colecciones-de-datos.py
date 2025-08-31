@@ -135,3 +135,4 @@ print(planetas)
 
 #tener la informacion almacenada pero solamente para corroborar si esta o no 
 print('neptuno' in planetas)
+
